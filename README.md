@@ -1,6 +1,6 @@
 # OOPs-Assignment-1
 
-## Aasif Ali
+### Submitted By: Aasif Ali
 
 Make a trait Queue which performs two functions of enqueue and dequque.
 * Two classes: DoubleQueue and SquareQueue mix in this trait.
